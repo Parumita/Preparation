@@ -37,6 +37,6 @@ public class Main {
 
         });
 
-        System.out.println(sortedemployeeList.stream().count());
+     
     }
 }
