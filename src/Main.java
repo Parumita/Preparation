@@ -33,7 +33,7 @@ public class Main {
         sortedemployeeList.stream().forEach(employee -> {
             System.out.println(employee.getName());
             System.out.println(employee.getEmployeeAge(employee.getName()));
-            System.out.println(employee.getAddress());
+
 
         });
 
